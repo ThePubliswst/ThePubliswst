@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThePubliswst
-- 👀 I’m interested in web design & apps serving the Global Majority
 - 🌱 I’m currently learning full stack development and data analytics
+- 👀 I’m interested in web design & apps serving the Global Majority
 - 💞️ I’m looking to collaborate on accessible designs and book editing
 - 📫 How to reach me thepubliswst@gmail.com or on IG @thepubliswst
 
